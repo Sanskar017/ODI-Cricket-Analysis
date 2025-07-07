@@ -66,7 +66,8 @@ This repository contains a complete cricket data science project pipeline applie
 ## 🔍 Analyses Performed
 
 ### 1. 🧮 Descriptive Analysis
-- Mean, median, std deviation, and other aggregates on team and player performance.
+- Mean, median, std deviation, and other aggregates on team and player performance.Descriptive analysis is visual and is done leveraging PowerBi.
+- 
 
 ### 2. 📈 Correlation Matrix
 - Heatmap to find relationships between features like 4s, 6s, total runs, eco rate.
